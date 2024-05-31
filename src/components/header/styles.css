@@ -1,0 +1,35 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 150px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgb(0, 212, 255) 0%, rgb(9, 9, 121) 35%, rgb(2, 0, 36) 100%);
+}
+
+h1 {
+  color: #ebeaea;
+}
+
+.logo_react {
+  width: 300px;
+}
+
+nav {
+  margin: auto 0;
+  display: flex;
+  justify-content: right;
+  font-size: 1.6rem;
+  height: 60px;
+  line-height: 60px;
+  width: 300px;
+}
+
+a {
+  color: #fff;
+  display: inline-block;
+  padding: 10px 15px;
+  margin-left: 10px;
+  line-height: 1;
+  text-decoration: none;
+  cursor: pointer;
+}/*# sourceMappingURL=styles.css.map */

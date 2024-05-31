@@ -1,0 +1,21 @@
+footer {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(90deg, rgb(131, 58, 180) 0%, rgb(253, 29, 29) 50%, rgb(252, 176, 69) 100%);
+}
+
+.logos,
+.menu {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  flex-wrap: wrap;
+}
+.logos img, .logos a,
+.menu img,
+.menu a {
+  margin-top: 30px;
+  width: 50px;
+  margin-left: 50px;
+}/*# sourceMappingURL=styles.css.map */
